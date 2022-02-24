@@ -1,5 +1,5 @@
-import oneJS from './modules/one'
+import oneJS from './modules/timer'
 import twoJS from './modules/two'
 
-oneJS()
-twoJS()
+timer("28 february 2022")
+//twoJS()
